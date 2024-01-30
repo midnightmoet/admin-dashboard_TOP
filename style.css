@@ -1,5 +1,38 @@
 /* SIDEBAR CSS */
+.container{
+    border: 1px solid black;
+}
+
+.sidebar {
+    border: 1px solid black;
+}
+
+
 
 /* HEADER CSS */
+.header {
+    border: 1px solid black;
+}
+
+.top-header {
+    border: 1px solid black;
+}
+
+.bottom-header {
+    border: 1px solid black;
+}
+
+
 
 /* MAIN CSS */
+.main {
+    border: 1px solid black;
+}
+
+.cards {
+    border: 1px solid black;
+}
+
+.card {
+    border: 1px solid black;
+}
