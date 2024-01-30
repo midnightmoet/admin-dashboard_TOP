@@ -12,7 +12,7 @@ STEP 1: Set up and planning
 
 STEP 2: Layout
 1. Start by writing out the HTML elements for the sidebar, header and main-content containers.  (Comments seem to help me organize things visually)
-2. In your CSS file, apply [Grid] (https://developer.mozilla.org/en-US/docs/Web/CSS/grid) until you have this basic layout built.
+2. In your CSS file, apply [Grid properties](https://developer.mozilla.org/en-US/docs/Web/CSS/grid) until you have this basic layout built.
 
 
 STEP 3: Nesting
