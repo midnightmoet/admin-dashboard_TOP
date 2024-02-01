@@ -127,6 +127,7 @@ button a {
   color: #fff;
 }
 
+
 /* Responsive Adjustments */
 @media screen and (max-width: 768px) {
   .container {

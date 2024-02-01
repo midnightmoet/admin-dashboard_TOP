@@ -44,3 +44,7 @@ STEP 5: Some Tips!
 
 STEP 6: Section feedback
 1. Before you move on, we would like your feedback [here](https://docs.google.com/forms/d/e/1FAIpQLSf_hNwIjvqcPZyl9Lx41mgJNQKp04qOro03SI8ABw4Zp7U_4w/viewform?usp=sf_link).  Getting user (you) feedback is important so we can continue to improve the curriculum and get an idea of your experience.
+
+
+### SIDE NOTE
+Used picsum for placeholders at the moment.  Will be changing the cards to reflect my TOP projects as a "portfolio"
