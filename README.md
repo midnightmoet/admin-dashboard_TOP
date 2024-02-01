@@ -2,6 +2,11 @@
 
 This is a project per [The Odin Project](https://www.theodinproject.com) lesson base.
 
+
+### Example
+
+![Dashboard Example via The Odin Project](<dash project example.png>)
+
 ## Assignment
 
 STEP 1: Set up and planning
