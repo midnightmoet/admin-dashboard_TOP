@@ -1,40 +1,99 @@
-/* SIDEBAR CSS */
-.container{
-    border: 1px solid black;
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 250px 1fr;
 }
 
 .sidebar {
-    border: 1px solid black;
+    background-color: #2a3f54;
+    color: #fff;
+    padding: 20px;
 }
 
+.sidebar img {
+    width: 80%;
+    margin-bottom: 20px;
+}
 
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
 
-/* HEADER CSS */
+.sidebar li {
+    margin-bottom: 10px;
+}
+
+.sidebar a {
+    text-decoration: none;
+    color: #fff;
+}
+
 .header {
-    border: 1px solid black;
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px;
 }
 
 .top-header {
-    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
-.bottom-header {
-    border: 1px solid black;
+.user-info {
+    display: flex;
+    align-items: center;
 }
 
-
-
-/* MAIN CSS */
-.main {
-    border: 1px solid black;
+.user-info img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
 }
 
 .cards {
-    border: 1px solid black;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
 }
 
 .card {
-    border: 1px solid black;
-    display: flex;
-    flex-direction: column;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    text-align: center;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.card h3 {
+    margin-top: 10px;
+}
+
+.card p {
+    color: #555;
+}
+
+.button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.button a {
+    text-decoration: none;
+    color: #fff;
 }
